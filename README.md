@@ -16,7 +16,7 @@ Steps that I performed in the projet are given below
 
 5.Predict the future for the next 30 days and plot the output
 
-Im using pandas-datareader which is Up-to-date remote data access for pandas. Works for multiple versions of pandas.
+I am using pandas-datareader which is Up-to-date remote data access for pandas. Works for multiple versions of pandas.
 
 we can extract data from various Internet sources into a pandas DataFrame. In this project im using Tingo
 
