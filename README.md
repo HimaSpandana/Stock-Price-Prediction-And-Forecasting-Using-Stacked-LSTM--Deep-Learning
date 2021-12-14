@@ -4,7 +4,7 @@
 
 Discover Long Short-Term Memory (LSTM) networks in Python and how you can use them to make stock market predictions! The stock which im working is AAPL. Apple Computer, Inc.
 
-Steps that I performed in the projet are
+Steps that I performed in the projet are given below
 
 1.Collect the stock data- AAPL and do data investigation
 
